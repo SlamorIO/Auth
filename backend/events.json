@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[],"users":[{"email":"test@test.com","password":"$2a$12$yu4zUhAZAxSQEKh1o7Z8N.pURRxJdmPORQ8gYtY.cK56aomEsKIB2","id":"518ac989-6f12-41a5-ab4c-097fc37148b5"},{"email":"test123@test.com","password":"$2a$12$0RL3BDWHfVRg6TchUi2MUOuqmvV9RjUtz4rW1aRV9DSAWrUACpkWG","id":"8698b6fb-c4b0-4bac-bb6a-3de90107578b"},{"email":"test3@test.com","password":"$2a$12$3GL6ba.XV8M2ezwOXWLyo.LAKxmWkpVmxPdP9Qsq2dG5yMU2DxZiW","id":"7ec3fc37-ad61-4dfd-9a8d-e4c825c0860d"}]}
